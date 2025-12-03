@@ -1,0 +1,10 @@
+flask
+flask-cors
+gunicorn
+opencv-python
+numpy
+pytesseract
+pandas
+scikit-learn
+nltk
+sqlalchemy
