@@ -1,0 +1,9 @@
+symmetrical
+uniform color
+one color
+even color
+smooth border
+regular border
+stable
+not changing
+common mole
